@@ -62,15 +62,12 @@ expo start
 
 ## How to run the project on Android:
 
-Download [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) and can the QR code [here](https://expo.dev/@moviendome/solacademy-wallet).
+Download [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) and can the QR code [here](https://expo.dev/).
 
 ## How to run the project on iOS:
 
 Download [Expo Go](https://apps.apple.com/app/apple-store/id982107779) and visit this [link](exp://exp.host/@moviendome/solacademy-wallet?release-channel=default) on your device.
 
-## Learn how to build a Cross-Platform Solana Wallet App
-
-Visit [Solacademy](https://www.solacademy.xyz)
 
 ## Donate
 
@@ -81,5 +78,5 @@ Consider donating some `SOL` or `SPL Tokens` if you find useful and want support
   <br />
   <img src="https://www.solacademy.xyz/_next/image?url=%2Fqrcode.svg&w=256&q=75" width="100" />
   <br />
-  <small>Eg2SAgUB5VsNdcSMggLpyrvqcBqJBwmBUNC6e4XC7LPv</small>
+  <small>H977mPPrgznZR4gFe2bZL9y1XSDbQUAAMvxZ48PJ3ExB</small>
 </p>

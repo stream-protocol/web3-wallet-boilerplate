@@ -33,13 +33,13 @@ In order to run this project, install:
 Clone this repository:
 
 ```
-git clone https://github.com/jferrer/solacademy-wallet
+git clone https://github.com/stream-protocol/web3-wallet-boilerplate
 ```
 
 Enter the project:
 
 ```
-cd solacademy-wallet
+cd sweb3-wallet-boilerplate
 ```
 
 Install dependencies:
@@ -66,7 +66,7 @@ Download [Expo Go](https://play.google.com/store/apps/details?id=host.exp.expone
 
 ## How to run the project on iOS:
 
-Download [Expo Go](https://apps.apple.com/app/apple-store/id982107779) and visit this [link](exp://exp.host/@moviendome/solacademy-wallet?release-channel=default) on your device.
+Download [Expo Go](https://apps.apple.com/app/apple-store/id982107779) and visit this [link](exp://exp.host/?release-channel=default) on your device.
 
 
 ## Donate
@@ -76,7 +76,7 @@ Consider donating some `SOL` or `SPL Tokens` if you find useful and want support
 
 <p align="center">
   <br />
-  <img src="https://www.solacademy.xyz/_next/image?url=%2Fqrcode.svg&w=256&q=75" width="100" />
+  <img src="https://www.streampay.app/_next/image?url=%2Fqrcode.svg&w=256&q=75" width="100" />
   <br />
   <small>H977mPPrgznZR4gFe2bZL9y1XSDbQUAAMvxZ48PJ3ExB</small>
 </p>
